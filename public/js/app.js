@@ -122,7 +122,7 @@ $('slider').addEventListener('input', function () {
 const map = new maplibregl.Map({
   container: 'map',
   style: 'https://basemaps.cartocdn.com/gl/positron-gl-style/style.json',
-  center: [139.6917, 35.6895],
+  center: [139.7528, 35.6852],
   zoom: 14,
 });
 
